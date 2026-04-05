@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+*.db
+*.db.mv.db
+*.db.trace.db
+.env
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.mv.db
+*.trace.db
+financedb*
